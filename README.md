@@ -17,7 +17,7 @@ For this I will create a neural network by using Data Manipulation, creating tra
         . Used Relu and Sigmoid Activations Functions since sigmoid is best for binary classifcation problems as this and relu is for nonlinear datasets.
         . Removed "USE_CASE_Other","AFFILIATION_Other" columns.
 
-![image]()
+![image](https://github.com/nypasha1928/Neural_Network_Charity_Analysis/blob/main/image/Attempt%201.png)
 
 ## Attempt 2
     . 3 Hidden Layers
@@ -25,7 +25,7 @@ For this I will create a neural network by using Data Manipulation, creating tra
     . Used Relu and Sigmoid Activations Functions since sigmoid is best for binary classifcation problems as this and relu is for nonlinear datasets.
     . Removed "USE_CASE_Other","AFFILIATION_Other" columns.
     
-![image]()
+![image](https://github.com/nypasha1928/Neural_Network_Charity_Analysis/blob/main/image/Attempt%202.png)
 
 ## Attempt 3
     . 3 Hidden Layers
@@ -33,13 +33,15 @@ For this I will create a neural network by using Data Manipulation, creating tra
     . Used Relu and Sigmoid Activations Functions since sigmoid is best for binary classifcation problems as this and relu is for nonlinear datasets.
     . Went back to original dataset
     
- ![image]()
+ ![image](https://github.com/nypasha1928/Neural_Network_Charity_Analysis/blob/main/image/Attempt%203.png)
  
  ## Attempt 4
     . 3 Hidden Layers
     . 80 neurons (Layer1), 30 neurons(Layer2), 15 neurons (Layer3)
     . Reordered Relu and Sigmoid Activations
     . Went back to original dataset
+
+![image](https://github.com/nypasha1928/Neural_Network_Charity_Analysis/blob/main/image/Attempt%204.png)
 
 I tried to change my models in order to achieve a more than 75% accuracy rate but only got about 73%. I changed my features, activation functions, Hidden Layers, and the number of neurons in order to achieve this. But if one where to get this result it would take longer than a more than expected so I am content with the results I got in one day.
 
